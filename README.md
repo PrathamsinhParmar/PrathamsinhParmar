@@ -82,17 +82,30 @@ I believe in learning by building and creating products that make a difference ð
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=PrathamsinhParmar&theme=tokyonight" />
 </p>
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamsinhparmar&layout=compact&theme=tokyonight"
-       alt="prathamsinhparmar" />
-</p>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamsinhparmar&layout=compact&theme=tokyonight&hide_border=true"
+        width="350" height="250" hide_border=true
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif"
+        width="320" height="190" hide_border=true
+      />
+    </td>
+  </tr>
+</table>
 
 <p>
   <img align="left"
        src="https://github-readme-stats.vercel.app/api?username=prathamsinhparmar&show_icons=true&theme=tokyonight"
        alt="prathamsinhparmar" />
 </p>
+</br></br></br></br></br></br></br></br></br>
 
+>
 
