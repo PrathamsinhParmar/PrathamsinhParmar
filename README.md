@@ -18,10 +18,10 @@
    <a href="https://prathamsinhparmar.github.io/Portfolio_2025/" target="_main">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/" target="_main">
+  <a href="https://www.instagram.com/parmarprathamsinh/" target="_main">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/" target="_main">
+  <a href="https://x.com/Prathamsinh2005" target="_main">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
