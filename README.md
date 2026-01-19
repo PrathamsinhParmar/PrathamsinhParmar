@@ -6,22 +6,22 @@
   <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" align='center'/>-->
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prathamsinhparmar-2162a2300" target="_main">
+  <a href="https://www.linkedin.com/in/prathamsinhparmar-2162a2300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-blue&logoColor=white" />
   </a>
-  <a href="mailto:prthamsinhparmar0@gmail.com" target="_main">
+  <a href="mailto:prthamsinhparmar0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/PrathamsinhParmar" target="_main">
+  <a href="https://github.com/PrathamsinhParmar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-   <a href="https://prathamsinhparmar.github.io/Portfolio_2025/" target="_main">
+   <a href="https://prathamsinhparmar.github.io/Portfolio_2025/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/parmarprathamsinh/" target="_main">
+  <a href="https://www.instagram.com/parmarprathamsinh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/Prathamsinh2005" target="_main">
+  <a href="https://x.com/Prathamsinh2005" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -55,14 +55,18 @@
   <br/>
 
 ---
-## Glad To See You Here! 
+
+<p align="left">
+   <h2>🙋‍♂️ Glad To See You Here !</h2> 
+   <img src="https://komarev.com/ghpvc/?username=PrathamsinhParmar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
  
 I am a **B.Tech Information Technology student** and a passionate **Full-Stack Web Developer**, who loves building real-world projects.  
 I enjoy working with **JavaScript, React, Backend Technologies, and AI-based solutions**.
 
 I believe in learning by building and creating products that make a difference 🚀
 
-## Talking About Personal Stuffs:
+## 👩‍💻 Talking About Personal Stuffs :
 
 - 🔭 I’m currently working on **Full-Stack & AI-based Projects**
 - 🌱 I’m learning **Node, Express, MongoDB (Backend Development) & AI**
@@ -72,4 +76,23 @@ I believe in learning by building and creating products that make a difference �
 - 📫 How to reach me: **prthamsinhparmar0@gmail.com**
 
 ---
-  </div>
+
+<h2 align="left">📈 My GitHub Status :</h2>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=PrathamsinhParmar&theme=tokyonight" />
+</p>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="390" height="318" />
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamsinhparmar&layout=compact&theme=tokyonight"
+       alt="prathamsinhparmar" />
+</p>
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api?username=prathamsinhparmar&show_icons=true&theme=tokyonight"
+       alt="prathamsinhparmar" />
+</p>
+
+
