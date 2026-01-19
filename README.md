@@ -1,11 +1,11 @@
 <!-- PROFILE SHOWCASE README -->
-<div align="center">
+<div align="left">
 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=Hi%20there,+I'm+Prathamsinh+Parmar+%F0%9F%91%8B;Passionate+Coder+%F0%9F%92%BB;Full%20Stack%20Web%20Developer+%F0%9F%94%91;Lifelong+Learner+%F0%9F%8C%8D" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF00FF&left=true&vCenter=true&width=700&lines=Hi%20there,+I'm+Prathamsinh+Parmar+%F0%9F%91%8B;Passionate+Coder+%F0%9F%92%BB;Full%20Stack%20Web%20Developer+%F0%9F%94%91;Lifelong+Learner+%F0%9F%8C%8D" alt="Typing SVG" />
 
   <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" align='center'/>-->
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/prathamsinhparmar-2162a2300" target="_main">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-blue&logoColor=white" />
   </a>
@@ -54,4 +54,22 @@
 
   <br/>
 
+---
+## Glad To See You Here! 
+ 
+I am a **B.Tech Information Technology student** and a passionate **Full-Stack Web Developer**, who loves building real-world projects.  
+I enjoy working with **JavaScript, React, Backend Technologies, and AI-based solutions**.
+
+I believe in learning by building and creating products that make a difference 🚀
+
+## Talking About Personal Stuffs:
+
+- 🔭 I’m currently working on **Full-Stack & AI-based Projects**
+- 🌱 I’m learning **Node, Express, MongoDB (Backend Development) & AI**
+- 🤖 Interested in **Full Stack Web & Cloud**
+- 💬 Ask me about **Web Development, GitHub, JavaScript, React**
+- 🎯 Goal: **Become a Full-Stack Developer within one year**
+- 📫 How to reach me: **prthamsinhparmar0@gmail.com**
+
+---
   </div>
