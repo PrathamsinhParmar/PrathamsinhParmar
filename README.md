@@ -1,13 +1,34 @@
 <!-- PROFILE SHOWCASE README -->
 <div align="center">
 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF00FF&center=true&vCenter=true&width=660&lines=Hi%20there,+I'm+Prathamsinh+Parmar+%F0%9F%91%8B;Passionate+Coder+%F0%9F%92%BB;Full%20Stack%20Web%20Developer+%F0%9F%94%91;Lifelong+Learner+%F0%9F%8C%8D" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=Hi%20there,+I'm+Prathamsinh+Parmar+%F0%9F%91%8B;Passionate+Coder+%F0%9F%92%BB;Full%20Stack%20Web%20Developer+%F0%9F%94%91;Lifelong+Learner+%F0%9F%8C%8D" alt="Typing SVG" />
 
   <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" align='center'/>-->
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamsinhparmar-2162a2300" target="_main">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-blue&logoColor=white" />
+  </a>
+  <a href="mailto:prthamsinhparmar0@gmail.com" target="_main">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PrathamsinhParmar" target="_main">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+   <a href="https://prathamsinhparmar.github.io/Portfolio_2025/" target="_main">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_main">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_main">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
   <h1>Welcome to My Coding Universe 🔥 </h1>
   <p><b>Languages, Frameworks & Tools I Know</b></p>
-
+  
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,html,css,tailwind,js,ts,react,redux,nodejs,express,mongodb,mysql,git,github,vscode" />
 
   <br/>
