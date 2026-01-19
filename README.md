@@ -82,7 +82,7 @@ I believe in learning by building and creating products that make a difference ð
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=PrathamsinhParmar&theme=tokyonight" />
 </p>
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="390" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
 <p>
   <img align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamsinhparmar&layout=compact&theme=tokyonight"
